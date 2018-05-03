@@ -34,6 +34,6 @@ To Donate something other than time to GRACEaid and the refugee Smart Contract
 
 **BTC: 16vbqtsBxXPWS7a6UAqijPomhUmu9EXMjF**
 
-**ΞTH: 0x236dAA98f115caa9991A3894ae387CDc13eaaD1B**
+**ΞTH: 0xc1D5FD1F0D969075040988e37Df3643Af724995D**
 
 **DGB: DNNrxrR76JmHkn1KVuxC2qgKNKzKpR6kYh**
